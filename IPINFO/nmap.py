@@ -29,3 +29,8 @@ IPADDRESS = check_ip(args.ipaddress)
 PORT = args.port 
 
 connect_host(IPADDRESS,PORT)
+
+
+# Usage python nmap.py -h > for help menu
+# python nmap.py -ip {IP address} -p {Port number} OR python nmap.py --ipaddress {IP Address} --port {port numbber} 
+# NOTE : You can use domain names in place of IP addresses to scan a host :)
