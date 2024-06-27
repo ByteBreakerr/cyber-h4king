@@ -1,0 +1,20 @@
+.hEadIng{
+   color : rgb(255,0,0);
+   font-family : Sans-serif;
+   letter-spacing : 1.2px;
+
+}
+
+.TexT{
+  padding : 4px;
+  font-family : serif;
+  word-spacing : 1.3px;
+}
+.actIon{
+  background : rgb(0,0,240);
+  color : white;
+  border-color : rgb(0,0,240);
+  border-radius : 5.5px;
+  padding : 5.6px;
+  font-weight : 6px;
+}
